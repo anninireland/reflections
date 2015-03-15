@@ -1,0 +1,9 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+
+	You need a repository to be able to track changes to files
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	It will allow you to select files to be inlcuded in the commit before setting it.
+
