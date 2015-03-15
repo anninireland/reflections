@@ -11,3 +11,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 	
 	once a file is in the staging area you can use git diff to see the changes that will be included if you commit. You can also choose to commit changes to one, some or all files in the project. 
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branches can help keep a working version while you build experimental features. I think that using branches allows you to have multiple different changes or branches going at once. 
