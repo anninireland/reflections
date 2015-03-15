@@ -7,3 +7,7 @@ How is the staging area different from the working directory and the repository?
 
 	It will allow you to select files to be inlcuded in the commit before setting it.
 
+How can you use the staging area to make sure you have one commit per logical change?
+	
+	once a file is in the staging area you can use git diff to see the changes that will be included if you commit. You can also choose to commit changes to one, some or all files in the project. 
+
